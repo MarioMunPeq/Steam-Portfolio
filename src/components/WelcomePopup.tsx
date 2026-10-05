@@ -140,7 +140,7 @@ export const WelcomePopup: React.FC = () => {
         </div>
 
         <div className="welcome-body">
-          <p className="welcome-kicker">Portfolio Library</p>
+          <p className="welcome-kicker">Steam Portfolio</p>
           <h1 className="welcome-title" id="welcome-title">
             {project.name}
           </h1>

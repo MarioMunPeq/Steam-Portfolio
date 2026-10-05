@@ -3,7 +3,7 @@ const normalizedBase = base.endsWith('/') ? base : `${base}/`;
 
 /**
  * Resuelve una ruta de /public (ej. `/projects/persona5/icon.ico`)
- * ante el `base` de Vite (`/Repository-Library/`).
+ * ante el `base` de Vite (`/Steam-Portfolio/`).
  * Vite sirve /public bajo el base path TANTO en dev como en prod.
  */
 export const assetUrl = (path: string): string => {

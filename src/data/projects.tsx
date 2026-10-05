@@ -167,7 +167,7 @@ export const projects: Project[] = [
     name: 'Fallout: New Vegas',
     category: 'portfolio',
     recommendation: 'desarrolladores',
-    githubUrl: 'https://mariomunpeq.github.io/Vault-Archive/',
+    githubUrl: 'https://mariomunpeq.github.io/Fallout-Portfolio/',
     status: 'en desarrollo',
     steamAppId: 22380,
     achievementsUnlocked: 31,

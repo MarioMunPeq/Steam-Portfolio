@@ -39,7 +39,7 @@ const NOTIFICATIONS = [
   {
     id: 'n1',
     icon: <CodeIcon className="notif-item-svg" />,
-    text: 'Nuevo proyecto añadido: Vault Archive',
+    text: 'Nuevo proyecto añadido: Fallout Portfolio',
     date: 'hace 2 días',
   },
   {

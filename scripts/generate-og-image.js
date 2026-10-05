@@ -163,7 +163,7 @@ function drawTitle() {
   ctx.font = 'bold 56px "Motiva Sans", Arial, sans-serif';
   ctx.fillStyle = STEAM_COLORS.textBright;
   ctx.textAlign = 'left';
-  ctx.fillText('Portfolio Library', 100, 180);
+  ctx.fillText('Steam Portfolio', 100, 180);
 
   ctx.font = '28px "Motiva Sans", Arial, sans-serif';
   ctx.fillStyle = STEAM_COLORS.accent;
@@ -221,11 +221,11 @@ function drawBottomBranding() {
   ctx.font = '16px "Motiva Sans", Arial, sans-serif';
   ctx.fillStyle = STEAM_COLORS.textDim;
   ctx.textAlign = 'center';
-  ctx.fillText('Repository-Library · GitHub Pages', WIDTH / 2, HEIGHT - 40);
+  ctx.fillText('Steam-Portfolio · GitHub Pages', WIDTH / 2, HEIGHT - 40);
 
   ctx.font = '13px "Motiva Sans", Arial, sans-serif';
   ctx.fillStyle = 'rgba(113, 147, 166, 0.6)';
-  ctx.fillText('mariomunpeq.github.io/Repository-Library', WIDTH / 2, HEIGHT - 20);
+  ctx.fillText('mariomunpeq.github.io/Steam-Portfolio', WIDTH / 2, HEIGHT - 20);
 }
 
 async function generateOGImage() {

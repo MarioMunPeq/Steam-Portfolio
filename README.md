@@ -1,4 +1,4 @@
-# Portfolio Library
+# Steam Portfolio
 
 Un hub tipo "Steam client" que reúne y da acceso a varios portfolios personales temáticos de videojuegos. Replica la distribución del cliente de escritorio de Steam, no la web.
 
@@ -106,6 +106,6 @@ Edita `src/data/projects.tsx` y añade un nuevo objeto al array `projects`:
 
 ## Despliegue
 
-El proyecto está configurado para GitHub Pages en `MarioMunPeq/Repository-Library`.
+El proyecto está configurado para GitHub Pages en `MarioMunPeq/Steam-Portfolio`.
 
 El workflow de GitHub Actions (`.github/workflows/deploy.yml`) hace deploy automático al hacer push a `main`.
